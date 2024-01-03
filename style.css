@@ -711,13 +711,13 @@ p {
 	padding: 10px 20px;
 	font-size: 2rem;
 }
-#Mess .col-left .about-img {
+#Mess .col-left .about-img1 {
 	height: 100%;
-	width: 100%;
+	width: 250px;
 	position: relative;
 	border: 10px solid white;
 }
-#Mess .col-left .about-img::after {
+#Mess .col-left .about-img1::after {
 	content: '';
 	position: absolute;
 	left: -33px;
