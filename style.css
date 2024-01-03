@@ -713,7 +713,7 @@ p {
 }
 #Mess .col-left .about-img1 {
 	height: 100%;
-	width: 500px;
+	width: 100%;
 	position: relative;
 	border: 10px solid white;
 }
@@ -722,8 +722,8 @@ p {
 	position: absolute;
 	left: -33px;
 	top: 19px;
-	height: 98%;
-	width: 98%;
+	height: 100%;
+	width: 100%;
 	border: 7px solid crimson;
 	z-index: -1;
 }
