@@ -957,7 +957,7 @@ p {
 		height: 400px;
 		padding-left: 60px;
 	}
-	#Mess .about .col-left .about-img::after {
+	#Mess .about .col-left .about-img1::after {
 		left: -45px;
 		top: 34px;
 		height: 98%;
